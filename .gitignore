@@ -23,5 +23,5 @@ Homestead.json
 .phpunit.result.cache
 
 
-/postgresql-data
-/.vscode/
+laravel-apache-pgsql/postgresql-data
+laravel-apache-pgsql/.vscode/

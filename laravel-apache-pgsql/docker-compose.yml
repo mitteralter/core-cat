@@ -41,7 +41,7 @@ services:
       POSTGRES_PASSWORD: pgpwd
       POSTGRES_DB: pgdb
     ports:
-      - 5432:5432
+      - 5431:5432
     networks:
       - backend
 
